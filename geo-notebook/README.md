@@ -2,7 +2,7 @@
 [![docker stars](https://img.shields.io/docker/stars/jterstriep/geo-notebook.svg)](https://hub.docker.com/r/jterstriep/docker-stack/)
 [![image metadata](https://images.microbadger.com/badges/image/jterstriep/geo-notebook.svg)](https://microbadger.com/images/jterstriep/geo-notebook "jterstriep/docker-stack image metadata")
 
-# jterstriep Notebook Geosptatial Python Stack
+# Jupyter Notebook Geospatial Python Stack
 
 **jterstriep/geo-notebook** inherits from jupyter/scipy-notebook and adds
 the geospatial library GDAL and python packages rasterio, geopandas and
